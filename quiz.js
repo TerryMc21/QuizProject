@@ -1,4 +1,6 @@
-funtion gradeTest() {
+function grade test fixed
+
+function gradeTest() {
 	//global variables
 	var totalQuestions = 5;
 	var correctAnswers = 0;
