@@ -41,4 +41,4 @@ funtion gradeTest() {
 	//iterate through all options in check box list 
 	//add selected item to new array 
 	//if both lists have same lenght and items at same data at same indexes 
-	//then we have all the correct answers for question 
+	//then we have all the correct answers for question must finish
