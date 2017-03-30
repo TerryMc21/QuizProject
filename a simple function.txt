@@ -1,0 +1,20 @@
+</html>
+</html>
+	<title>Function</title>
+	<script>
+		function printName(Name)
+		{
+		document.write("<hr>");
+		document.write("Name is"+"<br>");
+		document.write("<hr>");
+		}
+	</script>
+    </head>
+    <body>
+		<p>Function script</p>
+
+		<script>
+		printname("Galway,Ireland")
+		</script>
+    </body>
+    </html>
